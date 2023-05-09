@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Yakup Ardahan
-Recent Graduate Computer Engineering Student
+Java Software Developer
+Java, Spring Boot, MySQL, Git
 
-Jr Software Engineer
 <!--
 **paschan/paschan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
