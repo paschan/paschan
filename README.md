@@ -1,4 +1,3 @@
-### Hi there 👋 I'm Yakup Ardahan
 Java Software Developer
 Java, Spring Boot, MySQL, Git
 
